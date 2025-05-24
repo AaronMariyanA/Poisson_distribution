@@ -1,4 +1,7 @@
 # Fitting Poisson  distribution
+# Name : Aaron Mariyan A
+# Reg No : 212224040004
+# Date :  4/3/25
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
